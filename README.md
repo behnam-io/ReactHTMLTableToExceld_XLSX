@@ -1,9 +1,9 @@
-# ReactHTMLTableToExcel
-Provides a client side generation of Excel (.xls) file from HTML table element.
+# ReactHTMLTableToExcel_XLSX
 
-[![Build Status](https://travis-ci.org/zsusac/ReactHTMLTableToExcel.svg?branch=master)](https://travis-ci.org/zsusac/ReactHTMLTableToExcel)
+This is just a fork from https://github.com/zsusac/ReactHTMLTableToExcel.
 
-[![NPM](https://nodei.co/npm/react-html-table-to-excel.png)](https://npmjs.org/package/react-html-table-to-excel)
+I made a 1 liner edit to supprot '.xslx' and remove that excel warning
+
 
 ___
 No additional dependencies
